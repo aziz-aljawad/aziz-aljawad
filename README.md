@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aziz-aljawad
-- 👀 I’m interested in C#,Flutter
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in C#, Flutter
 - 💞️ I’m looking to collaborate on Open Source C# Projects, Open Spurce Flutter Projects
 - 📫 How to reach me: aziz.aljawad@gmail.com
 
